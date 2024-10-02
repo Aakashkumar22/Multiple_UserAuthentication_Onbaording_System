@@ -11,7 +11,7 @@ public class amain {
             System.out.println("\n");
             Context context4 = new Context();
             context4.put("email", "aakash22@gmail.com");
-            context4.put("credential", "A1234567"); // Example PAN number
+            context4.put("credential", " "); // Example PAN number
             context4.put("userId", "user789");
 
             // Define the credential type dynamically (in this case, PAN)
@@ -40,7 +40,7 @@ public class amain {
             System.out.println("\n");
             Context context5 = new Context();
             context5.put("mobileNumber", "9341237529");
-            context5.put("credential", "ABCEY4478G"); // Example PAN number
+            context5.put("credential", "ABCE"); // Example PAN number
             context5.put("userId", "user180");
 
             // Define the credential type dynamically (in this case, PAN)
